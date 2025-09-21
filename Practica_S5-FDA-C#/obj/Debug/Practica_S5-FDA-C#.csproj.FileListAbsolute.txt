@@ -1,0 +1,8 @@
+P:\workspace programacion\Universidad\Practica_-S5-FDA\Practica_S5-FDA-C#\bin\Debug\Practica_S5-FDA-C#.exe.config
+P:\workspace programacion\Universidad\Practica_-S5-FDA\Practica_S5-FDA-C#\bin\Debug\Practica_S5-FDA-C#.exe
+P:\workspace programacion\Universidad\Practica_-S5-FDA\Practica_S5-FDA-C#\bin\Debug\Practica_S5-FDA-C#.pdb
+P:\workspace programacion\Universidad\Practica_-S5-FDA\Practica_S5-FDA-C#\obj\Debug\Practica_S5-FDA-C#.csproj.AssemblyReference.cache
+P:\workspace programacion\Universidad\Practica_-S5-FDA\Practica_S5-FDA-C#\obj\Debug\Practica_S5-FDA-C#.csproj.CoreCompileInputs.cache
+P:\workspace programacion\Universidad\Practica_-S5-FDA\Practica_S5-FDA-C#\obj\Debug\Practica_S5-FDA-C#.exe
+P:\workspace programacion\Universidad\Practica_-S5-FDA\Practica_S5-FDA-C#\obj\Debug\Practica_S5-FDA-C#.pdb
+P:\workspace programacion\Universidad\Practica_-S5-FDA\Practica_S5-FDA-C#\obj\Debug\Practica_S5-FDA-C#.exe.config
